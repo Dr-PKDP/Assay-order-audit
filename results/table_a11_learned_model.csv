@@ -1,0 +1,5 @@
+subset,n,mde_pp,tost_2pp_diff_pp,tost_2pp_p,tost_2pp_established,tost_5pp_diff_pp,tost_5pp_p,tost_5pp_established
+whole cohort,697,1.21,0.06,0.001,True,0.06,0.0,True
+margin < 0.6,58,14.57,0.72,0.595,False,0.72,0.383,False
+margin < 0.4,41,20.35,1.15,0.635,False,1.15,0.481,False
+margin < 0.2,24,32.6,1.96,0.657,False,1.96,0.563,False

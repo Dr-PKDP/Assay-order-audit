@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or manuscript, please cite it as below."
+title: "Same-Label Partner Averaging Inflates Unpaired Multi-Omics Fusion Estimates: A Pairing-Arithmetic Audit Applied to Alzheimer's Disease"
+authors:
+  - family-names: "Dutta"
+    given-names: "Pijush Kanti"
+type: software
+license: MIT
+repository-code: "GITHUB_REPO_URL, to be inserted by author"
+keywords:
+  - multi-omics data integration
+  - unpaired data
+  - Alzheimer's disease
+  - value of information
+  - model calibration
+  - reproducibility
+abstract: >
+  Reproducible code and results for a three-check audit of same-label partner
+  averaging, the standard convention for estimating what a second molecular
+  layer adds when no cohort has both layers measured on the same patients.
+  Provides a pairing-arithmetic inflation identity, a combination-rule-free
+  attainability bound, and a single-partner re-simulation with a significance
+  test, applied to an open-access Alzheimer's disease case study built
+  entirely on public GEO/Zenodo data with no controlled-access data use
+  agreement required. Includes bootstrap-ensembled Stage-1 (mRNA) and Stage-2
+  (methylation) classifiers, the pairing-arithmetic and attainability-bound
+  checks, a single-partner (k=1) re-simulation, expanded external validation
+  across three independent cohorts, cross-platform harmonization checks, and
+  a leave-one-series-out retrain.
