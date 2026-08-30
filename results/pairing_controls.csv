@@ -1,0 +1,5 @@
+condition,k,n_seeds,acc_whole_mean_pct,acc_whole_sd_pct,acc_lowconf_mean_pct,acc_lowconf_sd_pct,delta_lowconf_vs_mrna_pp
+same,20,30,97.91,0.37,84.48,3.8,15.52
+random,20,30,96.51,0.28,68.45,3.31,-0.52
+permuted,20,30,96.47,0.26,67.87,3.16,-1.09
+opposite,20,30,97.86,0.3,84.54,3.74,15.57

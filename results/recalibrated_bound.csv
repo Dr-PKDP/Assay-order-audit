@@ -1,0 +1,13 @@
+variant,subset,n,ehat_pct,bound_pct,bound_ci_upper_pct,reported_pct,exceeds_ci_upper
+raw (as reported),Margin < 0.2,24,45.31,64.15,70.62,95.83,True
+raw (as reported),Margin < 0.4,41,40.85,67.68,73.67,95.12,True
+raw (as reported),Margin < 0.6,58,35.88,71.6,76.97,93.1,True
+raw (as reported),Whole cohort,697,4.97,96.06,96.95,98.57,True
+cross-fitted platt,Margin < 0.2,24,45.33,64.13,70.8,95.83,True
+cross-fitted platt,Margin < 0.4,41,39.0,69.13,75.06,95.12,True
+cross-fitted platt,Margin < 0.6,58,33.39,73.58,78.75,93.1,True
+cross-fitted platt,Whole cohort,697,3.97,96.85,97.61,98.57,True
+cross-fitted isotonic,Margin < 0.2,24,30.79,75.63,80.7,95.83,True
+cross-fitted isotonic,Margin < 0.4,41,28.02,77.82,82.26,95.12,True
+cross-fitted isotonic,Margin < 0.6,58,26.52,79.01,83.17,93.1,True
+cross-fitted isotonic,Whole cohort,697,2.93,97.68,98.28,98.57,True

@@ -1,0 +1,2 @@
+subset,n,baseline_acc_pct,seed_aggregated_acc_pct,seed_aggregated_diff_pp,baseline_auc,seed_aggregated_auc,hier_boot_mean_diff_pp,hier_boot_ci_lo_pp,hier_boot_ci_hi_pp,seed_diff_sd_pp,mc_se_of_mean_pp,mc_95_halfwidth_pp,n_seeds
+margin<0.6,58,68.97,75.86,6.9,0.6816,0.7395,-0.64,-6.45,5.39,4.31,0.305,0.6,200

@@ -1,0 +1,11 @@
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+scipy>=1.10
+statsmodels>=0.14
+matplotlib>=3.7
+seaborn>=0.12
+pyarrow>=14.0
+pybiomart>=0.2.0    # data_prep/get_platform_annotation_biomart.py
+neuroCombat>=0.2.12  # data_prep/combat_harmonization.py (see its docstring for a
+                     # required numpy compatibility shim -- np.int deprecation)
