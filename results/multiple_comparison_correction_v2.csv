@@ -1,9 +1,0 @@
-test,raw_p,holm_adj_p,holm_reject,bh_adj_p,bh_reject
-"1: Same-label k=20 vs mRNA-only (whole cohort, paired DeLong)",0.0005,0.0035,True,0.002,True
-"2: Same-label k=20 vs mRNA-only (margin<0.6, paired DeLong)",0.0002,0.0016,True,0.0016,True
-"3: Random pairing vs mRNA-only (whole cohort, paired DeLong)",0.01,0.05,True,0.02,True
-"4: Random pairing vs mRNA-only (whole cohort, McNemar exact)",1.0,1.0,False,1.0,False
-"5: FSQN vs baseline (GSE118553, paired DeLong)",0.71,1.0,False,0.8114285714285714,False
-"6: FSQN vs baseline (GSE5281, paired DeLong)",0.12,0.48,False,0.192,False
-"7: ComBat vs baseline (GSE118553, paired DeLong)",0.26,0.78,False,0.3466666666666667,False
-"8: ComBat vs baseline (GSE5281, paired DeLong)",0.004,0.024,True,0.010666666666666666,True

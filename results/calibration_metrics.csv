@@ -1,6 +1,0 @@
-cohort,n,prevalence,auc,brier,calibration_slope,calibration_intercept,ece_10_uniform,ece_10_quantile,ici
-Stage-1 internal (OOF),697,0.63,0.993,0.027,1.241,0.13,0.022,0.011,0.022
-Stage-1 GSE118553,63,0.635,0.484,0.315,-0.053,-0.398,0.26,0.283,0.189
-Stage-1 GSE5281,34,0.676,0.415,0.302,-0.157,-0.445,0.308,0.302,0.18
-Stage-2 internal (OOF),142,0.521,0.646,0.238,0.585,0.029,0.14,0.15,0.102
-Stage-2 GSE134379,404,0.557,0.617,0.245,0.533,0.268,0.091,0.097,0.078
